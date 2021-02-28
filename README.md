@@ -32,7 +32,7 @@ Technolgies:
 </h3>
 
 <h3>
-    <a href="https://github.com/visionmedia/supertest"> Supertest</a>
+    <a href="https://github.com/visionmedia/supertest">🔗 Supertest</a>
 </h3>
 
 <h3>
@@ -48,7 +48,7 @@ Technolgies:
 </h3>
 
 <h3>
-	<a href="https://github.com/jquense/yup"> Yup</a>
+	<a href="https://github.com/jquense/yup">🔗 Yup</a>
 </h3>
 
 <h4> 
